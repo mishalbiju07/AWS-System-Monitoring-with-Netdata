@@ -64,3 +64,21 @@ http://<your-server-ip>:19999
 •Netdata will notify you in real-time via email, Slack, or other configured channels.
 
 •Monitor system health in real-time and explore the interactive charts for CPU, memory, disk I/O, and other metrics.
+
+
+
+**Metrics**
+
+<img width="1919" height="869" alt="Screenshot 2026-02-10 004530" src="https://github.com/user-attachments/assets/61e44676-79eb-48a2-887a-b327bba85022" />
+
+
+
+**Custom Dashboard**
+
+
+
+<img width="1911" height="858" alt="Screenshot 2026-02-10 004554" src="https://github.com/user-attachments/assets/cef3ad41-5495-40d3-840a-4f4e0f37bdeb" />
+
+**Alerts**
+
+<img width="1913" height="871" alt="Screenshot 2026-02-10 004619" src="https://github.com/user-attachments/assets/b70f1ae0-c642-4361-ac77-dd1fb249c0ba" />
